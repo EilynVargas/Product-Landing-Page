@@ -5,4 +5,4 @@ For this product landing page, I used the brand **Branch** as inspiration. All i
 If you want to see the finished site, visit this link: https://eilynvargas.github.io/Product-Landing-Page/
 
 I added some functionalities that unfortunately are not supported for all browsers, so I'll be doing some changes to this site coming soon!
-- Page developed by Eilyn Vargas
+-Page developed by Eilyn Vargas
